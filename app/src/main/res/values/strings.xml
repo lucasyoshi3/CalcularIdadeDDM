@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalcularIdadeDDM</string>
+    <string name="Dia">Dia</string>
+    <string name="Mes">Mes</string>
+    <string name="Ano">Ano</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Idade">Idade</string>
+</resources>
